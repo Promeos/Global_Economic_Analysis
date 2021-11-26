@@ -1,2 +1,2 @@
-# Global_Economic_Analysis
+# Global Economic Analysis
 Research on global economic activity
